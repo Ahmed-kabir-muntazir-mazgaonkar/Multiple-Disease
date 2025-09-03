@@ -3,8 +3,7 @@ Multiple Disease Prediction System
 
 Health Assistant — a simple and user-friendly Streamlit web app that predicts Diabetes, Heart Disease, and Parkinson’s Disease using pre-trained machine learning models.
 
-Live Demo: multiple-disease-from-kabirmazgaonkar.streamlit.app
-
+Live Demo: (https://multiple-disease-from-kabirmazgaonkar.streamlit.app/)
 Features
 
 Three-in-One Disease Predictor:
